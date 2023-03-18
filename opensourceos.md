@@ -26,6 +26,8 @@ backgroundColor: white
 
 2023年3月19日
 
+![bg right:30% 90%](qrcode.png)
+
 ---
 # 个人情况
 - 1989--2000 国防科技大学计算机学院
@@ -255,3 +257,19 @@ backgroundColor: white
 ---
 ### [操作系统内核实现比赛](https://os.educg.net/#/index?name=2023%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B5%9B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E8%B5%9B-%E5%86%85%E6%A0%B8%E5%AE%9E%E7%8E%B0%E8%B5%9B&index=1&img=3) +   [操作系统功能挑战比赛](https://os.educg.net/#/index?name=2023%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B5%9B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E8%B5%9B-%E5%8A%9F%E8%83%BD%E6%8C%91%E6%88%98%E8%B5%9B&index=1&img=4) 
 ![w:1100](osfun-opensource.png) 
+
+---
+
+<!-- theme: gaia -->
+<!-- _class: lead -->
+
+
+<br>
+
+# 谢谢！
+
+<br>
+
+## 行胜于言 拥抱开源 
+- https://github.com/learningOS/
+- https://github.com/rcore-os/
